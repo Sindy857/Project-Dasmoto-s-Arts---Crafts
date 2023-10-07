@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-image: url(/Images/pattern.jpeg);
+    background-image: url(Images/pattern.jpeg);
     text-align: center;
     margin: 50px 0;
 }
